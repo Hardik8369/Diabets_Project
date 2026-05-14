@@ -1,0 +1,9 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+Random Forest,83.5,80.18,89.0,84.36,91.7
+Decision Tree,81.5,81.82,81.0,81.41,81.5
+SXRHE (Proposed),81.5,77.88,88.0,82.63,90.61
+XGBoost,79.5,77.06,84.0,80.38,88.37
+SVM,79.0,76.36,84.0,80.0,86.3
+KNN,77.5,74.77,83.0,78.67,83.42
+Logistic Regression,74.5,73.79,76.0,74.88,82.73
+Naive Bayes,70.5,71.13,69.0,70.05,79.3
